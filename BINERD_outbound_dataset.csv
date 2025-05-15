@@ -1,0 +1,81 @@
+Invoice id,product name,category,product id,supplier,date,unit total
+INV-20250515-080,Frozen French Fries (1kg),frozen food,FZF018,CV. Kentang Prima,2025-05-15,85
+INV-20250515-081,Lasagna (Frozen),instant food,INF016,PT. Italia Mia,2025-05-15,130
+INV-20250515-082,Mozzarella Cheese (200g),dairy,DRY017,Koperasi Keju Italia,2025-05-15,120
+INV-20250515-083,Turkey Slices (250g),meat,MT016,PT. Unggas Sehat,2025-05-15,70
+INV-20250515-084,Air Freshener (Spray),household product,HP015,PT. Udara Segar,2025-05-15,75
+INV-20250515-085,Facial Wash (100ml),personal care,PC012,PT. Wajah Bersih,2025-05-15,90
+INV-20250515-086,Pain Relief Cream,medicine,MED012,Apotek Nyaman,2025-05-15,190
+INV-20250515-087,Omega-3 Fish Oil,vitamin,VIT014,PT. Laut Sehat,2025-05-15,220
+INV-20250515-088,Highlighter (Single),stationery,STA014,Toko Warna Warni,2025-05-15,35
+INV-20250515-089,Cumin Powder,seasoning,SSN014,PT. Rempah Timur,2025-05-15,60
+INV-20250515-090,Strawberries (250g),fruit & vegetables,FNV015,UD. Berry Manis,2025-05-15,100
+INV-20250515-091,Whole Wheat Bread,staple food,SF020,PT. Roti Sehat,2025-05-15,80
+INV-20250515-092,Fruit Juice Blend,beverage,BVG024,PT. Jus Campur,2025-05-15,155
+INV-20250515-093,Rice Crackers (100g),snacks,SNK023,UD. Renyah Gurih,2025-05-15,125
+INV-20250515-094,Frozen Dumplings (Chicken),frozen food,FZF021,CV. Dimsum Lezat,2025-05-15,95
+INV-20250515-095,Nasi Goreng Instant,instant food,INF019,PT. Rasa Nusantara,2025-05-15,240
+INV-20250515-096,Shredded Cheese (200g),dairy,DRY020,Koperasi Cheddar,2025-05-15,105
+INV-20250515-097,Beef Sausages (500g),meat,MT019,PT. Daging Sapi Prima,2025-05-15,85
+INV-20250515-098,Multi-Surface Cleaner,household product,HP018,PT. Bersih Segala,2025-05-15,90
+INV-20250515-099,Hand Soap (Liquid),personal care,PC015,PT. Tangan Bersih,2025-05-15,70
+INV-20250515-100,Band-Aids (Box),medicine,MED015,Apotek Cepat Sembuh,2025-05-15,165
+INV-20250515-101,Zinc Supplement,vitamin,VIT017,PT. Daya Tahan,2025-05-15,195
+INV-20250515-102,Correction Tape,stationery,STA017,Toko Koreksi Rapi,2025-05-15,45
+INV-20250515-103,Turmeric Powder,seasoning,SSN017,PT. Kunyit Jaya,2025-05-15,55
+INV-20250515-104,Blueberries (125g),fruit & vegetables,FNV018,UD. Berry Biru,2025-05-15,110
+INV-20250515-105,Pasta Sauce (Tomato),staple food,SF023,PT. Saus Italia,2025-05-15,75
+INV-20250515-106,Iced Tea (Bottled),beverage,BVG027,PT. Teh Dingin,2025-05-15,140
+INV-20250515-107,Pretzel Bites (150g),snacks,SNK026,UD. Gigitan Asin,2025-05-15,135
+INV-20250515-108,Frozen Waffles,frozen food,FZF024,CV. Sarapan Beku,2025-05-15,80
+INV-20250515-109,Mie Goreng Instant,instant food,INF022,PT. Selera Pedas,2025-05-15,230
+INV-20250515-110,Parmesan Cheese (Grated),dairy,DRY023,Koperasi Keju Eropa,2025-05-15,130
+INV-20250515-111,Chicken Nuggets (500g),meat,MT022,PT. Ayam Lezat,2025-05-15,78
+INV-20250515-112,Furniture Polish,household product,HP021,PT. Mebel Kinclong,2025-05-15,85
+INV-20250515-113,Sunscreen Lotion (100ml),personal care,PC018,PT. Lindung Surya,2025-05-15,120
+INV-20250515-114,Antiseptic Liquid,medicine,MED018,Apotek Bersih Luka,2025-05-15,175
+INV-20250515-115,Calcium Supplement,vitamin,VIT020,PT. Tulang Sehat,2025-05-15,200
+INV-20250515-116,Stapler,stationery,STA020,Toko Jilid Kuat,2025-05-15,60
+INV-20250515-117,Ginger Powder,seasoning,SSN020,PT. Jahe Wangi,2025-05-15,50
+INV-20250515-118,Raspberries (125g),fruit & vegetables,FNV021,UD. Berry Merah,2025-05-15,115
+INV-20250515-119,Canned Sardines,staple food,SF026,PT. Ikan Kaleng,2025-05-15,90
+INV-20250515-120,Soy Milk (1 Liter),beverage,BVG030,PT. Susu Kedelai,2025-05-15,130
+INV-20250515-121,Corn Chips (200g),snacks,SNK029,UD. Keripik Jagung,2025-05-15,140
+INV-20250515-122,Frozen Peas (500g),frozen food,FZF027,CV. Polong Segar,2025-05-15,70
+INV-20250515-123,Bolognese Sauce (Instant),instant food,INF025,PT. Saus Daging,2025-05-15,180
+INV-20250515-124,Feta Cheese (200g),dairy,DRY026,Koperasi Keju Yunani,2025-05-15,125
+INV-20250515-125,Salmon Fillet (250g),meat,MT025,PT. Ikan Salmon,2025-05-15,120
+INV-20250515-126,Window Cleaner (500ml),household product,HP024,PT. Jendela Bersih,2025-05-15,80
+INV-20250515-127,Mouthwash (500ml),personal care,PC021,PT. Nafas Segar,2025-05-15,95
+INV-20250515-128,Thermometer (Digital),medicine,MED021,Apotek Suhu Badan,2025-05-15,210
+INV-20250515-129,Iron Supplement,vitamin,VIT023,PT. Darah Sehat,2025-05-15,190
+INV-20250515-130,Paper Clips (Box),stationery,STA023,Toko Klip Kertas,2025-05-15,30
+INV-20250515-131,Cinnamon Powder,seasoning,SSN023,PT. Kayu Manis,2025-05-15,65
+INV-20250515-132,Avocados (1kg),fruit & vegetables,FNV024,UD. Alpukat Mentega,2025-05-15,130
+INV-20250515-133,Basmati Rice (1kg),staple food,SF029,PT. Beras India,2025-05-15,110
+INV-20250515-134,Coconut Water (Bottled),beverage,BVG033,PT. Air Kelapa,2025-05-15,160
+INV-20250515-135,Trail Mix (250g),snacks,SNK032,UD. Campuran Sehat,2025-05-15,150
+INV-20250515-136,Frozen Spinach (500g),frozen food,FZF030,CV. Bayam Segar,2025-05-15,65
+INV-20250515-137,Carbonara Sauce (Instant),instant food,INF028,PT. Saus Krim,2025-05-15,195
+INV-20250515-138,Ricotta Cheese (250g),dairy,DRY029,Koperasi Keju Lembut,2025-05-15,115
+INV-20250515-139,Tuna Canned (in Oil),meat,MT028,PT. Ikan Tuna,2025-05-15,90
+INV-20250515-140,Bleach (1 Liter),household product,HP027,PT. Pemutih Kuat,2025-05-15,75
+INV-20250515-141,Shaving Cream (200g),personal care,PC024,PT. Cukur Halus,2025-05-15,85
+INV-20250515-142,Digital Blood Pressure Monitor,medicine,MED024,Apotek Tekanan Darah,2025-05-15,350
+INV-20250515-143,Vitamin K,vitamin,VIT026,PT. Pembekuan Darah,2025-05-15,215
+INV-20250515-144,Sticky Notes (Pack),stationery,STA026,Toko Catatan Tempel,2025-05-15,35
+INV-20250515-145,Nutmeg Powder,seasoning,SSN026,PT. Pala Harum,2025-05-15,70
+INV-20250515-146,Pineapples (1 each),fruit & vegetables,FNV027,UD. Nanas Manis,2025-05-15,45
+INV-20250515-147,Quinoa (500g),staple food,SF032,PT. Biji Sehat,2025-05-15,135
+INV-20250515-148,Sparkling Water (Bottled),beverage,BVG036,PT. Air Soda,2025-05-15,170
+INV-20250515-149,Energy Drink (Can),beverage,BVG001,PT. Tenaga Extra,2025-05-15,200
+INV-20250515-150,Chocolate Bar (Milk),snacks,SNK001,PT. Cokelat Manis,2025-05-15,100
+INV-20250515-151,Ice Cream (Vanilla),frozen food,FZF001,CV. Es Krim Lezat,2025-05-15,70
+INV-20250515-152,Spaghetti Sauce (Canned),instant food,INF002,PT. Saus Pasta,2025-05-15,160
+INV-20250515-153,Cheddar Cheese (Block),dairy,DRY003,Koperasi Keju Cheddar,2025-05-15,110
+INV-20250515-154,Chicken Breast (1kg),meat,MT002,PT. Ayam Segar,2025-05-15,150
+INV-20250515-155,Toilet Paper (Roll),household product,HP002,PT. Kertas Lembut,2025-05-15,180
+INV-20250515-156,Hand Sanitizer (Bottle),personal care,PC002,PT. Bersih Instan,2025-05-15,120
+INV-20250515-157,Multivitamin Tablets,medicine,MED002,Apotek Prima,2025-05-15,220
+INV-20250515-158,Vitamin A (Capsules),vitamin,VIT002,PT. Mata Sehat,2025-05-15,190
+INV-20250515-159,Pencil Sharpener,stationery,STA003,Toko Rautan Tajam,2025
