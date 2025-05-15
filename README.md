@@ -1,4 +1,4 @@
-# Binerd-s-Mart
+# Binerd's Mart
 BINERD'S MART: Smart Inventory AI - Real Time Warehouse Sales Monitoring System
 
 Smart Inventory AI is a real-time inventory and sales management platform powered by a multi-agent AI system. Designed for supermarkets, wholesalers, and warehouse operations, this system enables proactive stock control, real-time data monitoring, and intelligent sales optimization.   
